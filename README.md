@@ -15,7 +15,7 @@ Inversion of control (IOC)
 Repository Pattern
 ------------------
 
-[en] http://blog.gauffin.org/2013/01/repository-pattern-done-right/
+- [en] http://blog.gauffin.org/2013/01/repository-pattern-done-right/
 
 
 Books
