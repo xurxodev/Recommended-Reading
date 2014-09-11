@@ -24,7 +24,7 @@ Command Query Responsibility Segregation (CQRS)
 - [en] http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/
 - [en] http://martinfowler.com/bliki/CQRS.html
 - [en] http://www.infoq.com/articles/rest-api-on-cqrs
-- 
+
 Repository Pattern
 ------------------
 
