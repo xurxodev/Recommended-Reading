@@ -1,9 +1,9 @@
 Recommended-Reading
 ===================
 
-Software development recommended articles and books
+Software development recommended resources and books
 
-Articles
+Resources
 ========
 
 Inversion of control (IOC)
@@ -24,6 +24,7 @@ Command Query Responsibility Segregation (CQRS)
 - [en] http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/
 - [en] http://martinfowler.com/bliki/CQRS.html
 - [en] http://www.infoq.com/articles/rest-api-on-cqrs
+- [en] https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example
 
 Repository Pattern
 ------------------
@@ -34,5 +35,13 @@ Repository Pattern
 Books
 =====
 
+Dependency Injection (DI)
+-------------------------
+
+- [en] http://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501?tag=xurxodeveloper-20
+
+Command Query Responsibility Segregation (CQRS)
+-----------------------------------------------
+- [en] http://www.amazon.com/gp/product/1484102878?tag=xurxodeveloper-20
 
 
