@@ -5,13 +5,19 @@ Software development recommended resources and books
 <h2>
 Resources
 </h2>
-<h3>
-Inversion of control (IOC)
-</h3>
-
-- [en] http://martinfowler.com/bliki/InversionOfControl.html
-- [es] http://xurxodeveloper.blogspot.com.es/2014/09/inversion-de-control-ioc.html
-
+<<section>
+	<h3>
+	Inversion of control (IOC)
+	</h3>
+	<ul>
+		<li>
+			- [en] http://martinfowler.com/bliki/InversionOfControl.html
+		</li>
+		<li>
+			- [es] http://xurxodeveloper.blogspot.com.es/2014/09/inversion-de-control-ioc.html
+		</li>
+	</ul>
+</section>
 <h3>
 Dependency Injection (DI)
 </h3>
@@ -37,14 +43,13 @@ Repository Pattern
 <h2>
 Books
 </h2>
-
+<h3>
 Dependency Injection (DI)
--------------------------
-
+</h3>
 - <a href="http://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501?tag=xurxodeveloper-20">[en] Dependency Injection in NET - Mark-Seemann</a>
-
+<h3>
 Command Query Responsibility Segregation (CQRS)
------------------------------------------------
+</h3>
 - [en] http://www.amazon.com/gp/product/1484102878?tag=xurxodeveloper-20
 
 
