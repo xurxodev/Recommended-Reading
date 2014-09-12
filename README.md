@@ -41,14 +41,16 @@ Command Query Responsibility Segregation (CQRS)
 </h4>
 <ul>
 <li>
-	- [en] http://martinfowler.com/bliki/CQRS.html
+	<a href="http://martinfowler.com/bliki/CQRS.html">[en] CQRS - Martin Fowler</a>
 </li>
 <li>
-	- [en] http://www.infoq.com/articles/rest-api-on-cqrs
+	<a href="http://www.infoq.com/articles/rest-api-on-cqrs">[en] Exposing CQRS Through a RESTful API</a>
 </li>
 <li>
-	
-- [en] https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example
+	<a href="https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example">[en] GitHub - Fohjin.DDD.Example</a>
+</li>
+<li>
+	<a href="http://www.udidahan.com/2009/12/09/clarified-cqrs/">[en] Clarified CQRS - Udi Dahan</a>
 </li>
 </ul>
 </section>
