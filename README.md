@@ -41,16 +41,19 @@ Command Query Responsibility Segregation (CQRS)
 </h4>
 <ul>
 <li>
-	<a href="http://martinfowler.com/bliki/CQRS.html">[en] CQRS - Martin Fowler</a>
+	<a href="http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/" target="_blank">[en] Greg Young - CQRS, Task Based UIs, Event Sourcing agh!</a>
 </li>
 <li>
-	<a href="http://www.infoq.com/articles/rest-api-on-cqrs">[en] Exposing CQRS Through a RESTful API</a>
+	<a href="http://martinfowler.com/bliki/CQRS.html" target="_blank">[en] Martin Fowler - CQRS</a>
 </li>
 <li>
-	<a href="https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example">[en] GitHub - Fohjin.DDD.Example</a>
+	<a href="http://www.infoq.com/articles/rest-api-on-cqrs" target="_blank">[en] Exposing CQRS Through a RESTful API</a>
 </li>
 <li>
-	<a href="http://www.udidahan.com/2009/12/09/clarified-cqrs/">[en] Clarified CQRS - Udi Dahan</a>
+	<a href="https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example" target="_blank">[en] GitHub - Fohjin.DDD.Example</a>
+</li>
+<li>
+	<a href="http://www.udidahan.com/2009/12/09/clarified-cqrs/" target="_blank">[en] Udi Dahan - Clarified CQRS</a>
 </li>
 </ul>
 </section>
@@ -76,7 +79,7 @@ Dependency Injection (DI)
 </h4>
 <ul>
 <li>
-	<a href="http://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501?tag=xurxodeveloper-20">[en] Dependency Injection in NET - Mark-Seemann</a>
+	<a href="http://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501?tag=xurxodeveloper-20" target="_blank">[en] Dependency Injection in NET - Mark-Seemann</a>
 </li>
 </ul>
 </section>
@@ -86,7 +89,7 @@ Command Query Responsibility Segregation (CQRS)
 </h4>
 <ul>
 <li>
-	<a href="http://www.amazon.com/gp/product/1484102878?tag=xurxodeveloper-20">[en] CQRS, The example</a>
+	<a href="http://www.amazon.com/gp/product/1484102878?tag=xurxodeveloper-20" target="_blank">[en] CQRS, The example</a>
 </li>
 </ul>
 </section>
