@@ -12,12 +12,12 @@ Resources
 Inversion of control (IOC)
 </h4>
 <ul>
-<li>
-	- [en] http://martinfowler.com/bliki/InversionOfControl.html
-</li>
-<li>
-	- [es] http://xurxodeveloper.blogspot.com.es/2014/09/inversion-de-control-ioc.html
-</li>
+	<li>
+		- [en] http://martinfowler.com/bliki/InversionOfControl.html
+	</li>
+	<li>
+		- [es] http://xurxodeveloper.blogspot.com.es/2014/09/inversion-de-control-ioc.html
+	</li>
 </ul>
 </section>
 
@@ -26,12 +26,12 @@ Inversion of control (IOC)
 Dependency Injection (DI)
 </h4>
 <ul>
-<li>
-	- [es] http://xurxodeveloper.blogspot.com/2014/09/Inyeccion-de-Dependencias-DI.html
-</li>
-<li>
-	- [en] http://blog.ploeh.dk/2011/07/28/CompositionRoot
-</li>
+	<li>
+		- [es] http://xurxodeveloper.blogspot.com/2014/09/Inyeccion-de-Dependencias-DI.html
+	</li>
+	<li>
+		- [en] http://blog.ploeh.dk/2011/07/28/CompositionRoot
+	</li>
 </ul>
 </section>
 
@@ -40,21 +40,21 @@ Dependency Injection (DI)
 Command Query Responsibility Segregation (CQRS)
 </h4>
 <ul>
-<li>
-	<a href="http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/" target="_blank">[en] Greg Young - CQRS, Task Based UIs, Event Sourcing agh!</a>
-</li>
-<li>
-	<a href="http://martinfowler.com/bliki/CQRS.html" target="_blank">[en] Martin Fowler - CQRS</a>
-</li>
-<li>
-	<a href="http://www.infoq.com/articles/rest-api-on-cqrs" target="_blank">[en] Exposing CQRS Through a RESTful API</a>
-</li>
-<li>
-	<a href="https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example" target="_blank">[en] GitHub - Fohjin.DDD.Example</a>
-</li>
-<li>
-	<a href="http://www.udidahan.com/2009/12/09/clarified-cqrs/" target="_blank">[en] Udi Dahan - Clarified CQRS</a>
-</li>
+	<li>
+		<a href="http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/" target="_blank">[en] Greg Young - CQRS, Task Based UIs, Event Sourcing agh!</a>
+	</li>
+	<li>
+		<a href="http://martinfowler.com/bliki/CQRS.html" target="_blank">[en] Martin Fowler - CQRS</a>
+	</li>
+	<li>
+		<a href="http://www.infoq.com/articles/rest-api-on-cqrs" target="_blank">[en] Exposing CQRS Through a RESTful API</a>
+	</li>
+	<li>
+		<a href="https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example" target="_blank">[en] GitHub - Fohjin.DDD.Example</a>
+	</li>
+	<li>
+		<a href="http://www.udidahan.com/2009/12/09/clarified-cqrs/" target="_blank">[en] Udi Dahan - Clarified CQRS</a>
+	</li>
 </ul>
 </section>
 
@@ -63,9 +63,13 @@ Command Query Responsibility Segregation (CQRS)
 Repository Pattern
 </h4>
 <ul>
-<li>
-	- [en] http://blog.gauffin.org/2013/01/repository-pattern-done-right/
-</li>
+	<li>
+		<a href="http://blog.gauffin.org/2013/01/repository-pattern-done-right/" target="_blank">[es] Repository pattern, done right</a>
+	</li>
+	<li>
+		<a href="http://blog.koalite.com/2011/12/tipos-de-repositorio-separacion-de-responsabilidades/" target="_blank">[es] Juanma @gulnor Tipos de repositorio: Separación de responsabilidades</a>
+	</li>
+
 </ul>
 </section>
 </section>
@@ -78,9 +82,9 @@ Books
 Dependency Injection (DI)
 </h4>
 <ul>
-<li>
-	<a href="http://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501?tag=xurxodeveloper-20" target="_blank">[en] Dependency Injection in NET - Mark-Seemann</a>
-</li>
+	<li>
+		<a href="http://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501?tag=xurxodeveloper-20" target="_blank">[en] Dependency Injection in NET - Mark-Seemann</a>
+	</li>
 </ul>
 </section>
 <section>
@@ -88,9 +92,9 @@ Dependency Injection (DI)
 Command Query Responsibility Segregation (CQRS)
 </h4>
 <ul>
-<li>
-	<a href="http://www.amazon.com/gp/product/1484102878?tag=xurxodeveloper-20" target="_blank">[en] CQRS, The example</a>
-</li>
+	<li>
+		<a href="http://www.amazon.com/gp/product/1484102878?tag=xurxodeveloper-20" target="_blank">[en] CQRS, The example</a>
+	</li>
 </ul>
 </section>
 </section>
