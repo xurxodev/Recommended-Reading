@@ -12,9 +12,9 @@
 
 ### Command Query Responsibility Segregation (CQRS)
 * [CQRS, Task Based UIs, Event Sourcing agh! - Greg Young] (http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh)
-* [CQRS - Martin Fowler](href="http://martinfowler.com/bliki/CQRS.html)
+* [CQRS - Martin Fowler](http://martinfowler.com/bliki/CQRS.html)
 * [Exposing CQRS Through a RESTful API](http://www.infoq.com/articles/rest-api-on-cqrs) 
-* [GitHub - Fohjin.DDD.Example](href="https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example) 
+* [GitHub - Fohjin.DDD.Example](https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example) 
 * [Clarified CQRS - Udi Dahan](http://www.udidahan.com/2009/12/09/clarified-cqrs)
 
 ### Repository Pattern
