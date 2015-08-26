@@ -22,6 +22,11 @@
 * [Repository pattern, done right](http://blog.gauffin.org/2013/01/repository-pattern-done-right)
 * [Juanma @gulnor Tipos de repositorio: Separación de responsabilidades](http://blog.koalite.com/2011/12/tipos-de-repositorio-separacion-de-responsabilidades)
 
+### Clean Architecture
+* [Architecting Android…The clean way? - Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way)
+* [The Clean Architecture - Uncle Bob](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [My way to clean Android - Christian Panadero](http://es.slideshare.net/ChristianPanadero/my-way-to-clean-android-android-day-salamanca-edition)
+
 ## Books
 
 ### Dependency Injection (DI)
