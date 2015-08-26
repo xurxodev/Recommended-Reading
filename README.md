@@ -1,4 +1,4 @@
-# Recommended-Reading software development resources and books
+# Recommended-Reading - software development resources and books
 
 ## Resources
 
