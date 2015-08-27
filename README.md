@@ -35,4 +35,7 @@
 ### Command Query Responsibility Segregation (CQRS)
 * [CQRS, The example](http://www.amazon.com/gp/product/1484102878?tag=xurxodeveloper-20) 
 
+### Domain Driven Design
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](http://www.amazon.com/gp/product/0321125215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321125215&linkCode=as2&tag=xurxodevelo09-20&linkId=YYEGIGUSQYKSU6XY)
+* [Implementing Domain-Driven Design - Vaughn Vernon](http://www.amazon.com/gp/product/0321834577/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321834577&linkCode=as2&tag=xurxodevelo09-20&linkId=V2N2XLIWV7EDKDTI)
 
