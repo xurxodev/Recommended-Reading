@@ -27,6 +27,11 @@
 * [Architecting Android…The clean way? - Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way)
 * [My way to clean Android - Christian Panadero](http://es.slideshare.net/ChristianPanadero/my-way-to-clean-android-android-day-salamanca-edition)
 
+### Android Github Repositories with Best Practices
+[EffectiveAndroidUI - pedrovgs](https://github.com/pedrovgs/EffectiveAndroidUI)
+[Android Clean Architecture - Fernando Cejas](https://github.com/android10/Android-CleanArchitecture)
+[Clean Contacts - Christian Panadero](https://github.com/PaNaVTEC/Clean-Contacts)
+
 ## Books
 
 ### Dependency Injection (DI)
