@@ -54,3 +54,10 @@
 ### Domain Driven Design
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](http://www.amazon.com/gp/product/0321125215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321125215&linkCode=as2&tag=xurxodevelo09-20&linkId=YYEGIGUSQYKSU6XY)
 * [Implementing Domain-Driven Design - Vaughn Vernon](http://www.amazon.com/gp/product/0321834577/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321834577&linkCode=as2&tag=xurxodevelo09-20&linkId=V2N2XLIWV7EDKDTI)
+
+### Testing
+* [Test Driven Development: By Example - Kent Beck](http://www.amazon.com/gp/product/0321146530/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321146530&linkCode=as2&tag=xurxodevelo09-20&linkId=S76CMKLILXWVTBO3)
+* [Growing Object-Oriented Software, Guided by Tests - Steve Freeman](http://www.amazon.com/gp/product/0321503627/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=xurxodevelo09-20&linkId=Z26YBTBIO222JPAC)
+* [xUnit Test Patterns: Refactoring Test Code - Gerard Meszaros](http://www.amazon.com/gp/product/0131495054/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131495054&linkCode=as2&tag=xurxodevelo09-20&linkId=RQUVYX2KZVLBZTW3)
+* [Agile Testing: A Practical Guide for Testers and Agile Teams - Lisa Crispin](http://www.amazon.com/gp/product/0321534468/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321534468&linkCode=as2&tag=xurxodevelo09-20&linkId=DH4FFVW6VXZ7KPRC)
+* [The Art of Unit Testing: with examples in C# - Roy Osherove](http://www.amazon.com/gp/product/1617290890/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617290890&linkCode=as2&tag=xurxodevelo09-20&linkId=POSITZ2AQBS7Z7T5)
