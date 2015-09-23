@@ -38,12 +38,14 @@
 
 ## Books
 
-### Design Patterns
+### Design Patterns and Best Practices
 * [Patterns of Enterprise Application Architecture - Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=xurxodevelo09-20&linkId=RACADZ6HNCGK7YE4)
 * [Design Patterns: Elements of Reusable Object-Oriented Software - Gang of Four](http://www.amazon.com/gp/product/0201633612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=xurxodevelo09-20&linkId=QY7XYHGN4L46SQ65)
+* [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](http://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=xurxodevelo09-20&linkId=QMAVUCF7KR4LLKBM)
 
 ### Refactoring
 * [Refactoring: Improving the Design of Existing Code - Martin Fowler](http://www.amazon.com/gp/product/0201485672/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201485672&linkCode=as2&tag=xurxodevelo09-20&linkId=5M4QPOG44IICSIWL)
+* [Refactoring to Patterns - Joshua Kerievsky](http://www.amazon.com/gp/product/0321213351/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321213351&linkCode=as2&tag=xurxodevelo09-20&linkId=2SAJGZDSAYY4SYOL)
 
 ### Dependency Injection (DI)
 * [Dependency Injection in NET - Mark-Seemann](http://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501?tag=xurxodeveloper-20) 
