@@ -42,6 +42,7 @@
 * [Patterns of Enterprise Application Architecture - Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=xurxodevelo09-20&linkId=RACADZ6HNCGK7YE4)
 * [Design Patterns: Elements of Reusable Object-Oriented Software - Gang of Four](http://www.amazon.com/gp/product/0201633612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=xurxodevelo09-20&linkId=QY7XYHGN4L46SQ65)
 * [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](http://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=xurxodevelo09-20&linkId=QMAVUCF7KR4LLKBM)
+* [Agile Software Development, Principles, Patterns, and Practices - Robert C. Martin](http://www.amazon.com/gp/product/0135974445/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0135974445&linkCode=as2&tag=xurxodevelo09-20&linkId=775TPPB2K34W66GL)
 
 ### Refactoring
 * [Refactoring: Improving the Design of Existing Code - Martin Fowler](http://www.amazon.com/gp/product/0201485672/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201485672&linkCode=as2&tag=xurxodevelo09-20&linkId=5M4QPOG44IICSIWL)
