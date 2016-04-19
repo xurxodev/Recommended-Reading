@@ -39,28 +39,28 @@
 ## Books
 
 ### Design Patterns and Best Practices
-* [Patterns of Enterprise Application Architecture - Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=xurxodevelo09-20&linkId=RACADZ6HNCGK7YE4)
-* [Design Patterns: Elements of Reusable Object-Oriented Software - Gang of Four](http://www.amazon.com/gp/product/0201633612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=xurxodevelo09-20&linkId=QY7XYHGN4L46SQ65)
-* [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](http://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=xurxodevelo09-20&linkId=QMAVUCF7KR4LLKBM)
-* [Agile Software Development, Principles, Patterns, and Practices - Robert C. Martin](http://www.amazon.com/gp/product/0135974445/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0135974445&linkCode=as2&tag=xurxodevelo09-20&linkId=775TPPB2K34W66GL)
+* [Patterns of Enterprise Application Architecture - Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=xurxodev-20&linkId=RACADZ6HNCGK7YE4)
+* [Design Patterns: Elements of Reusable Object-Oriented Software - Gang of Four](http://www.amazon.com/gp/product/0201633612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=xurxodev-20&linkId=QY7XYHGN4L46SQ65)
+* [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](http://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=xurxodev-20&linkId=QMAVUCF7KR4LLKBM)
+* [Agile Software Development, Principles, Patterns, and Practices - Robert C. Martin](http://www.amazon.com/gp/product/0135974445/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0135974445&linkCode=as2&tag=xurxodev-20&linkId=775TPPB2K34W66GL)
 
 ### Refactoring
-* [Refactoring: Improving the Design of Existing Code - Martin Fowler](http://www.amazon.com/gp/product/0201485672/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201485672&linkCode=as2&tag=xurxodevelo09-20&linkId=5M4QPOG44IICSIWL)
-* [Refactoring to Patterns - Joshua Kerievsky](http://www.amazon.com/gp/product/0321213351/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321213351&linkCode=as2&tag=xurxodevelo09-20&linkId=2SAJGZDSAYY4SYOL)
+* [Refactoring: Improving the Design of Existing Code - Martin Fowler](http://www.amazon.com/gp/product/0201485672/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201485672&linkCode=as2&tag=xurxodev-20&linkId=5M4QPOG44IICSIWL)
+* [Refactoring to Patterns - Joshua Kerievsky](http://www.amazon.com/gp/product/0321213351/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321213351&linkCode=as2&tag=xurxodev-20&linkId=2SAJGZDSAYY4SYOL)
 
 ### Dependency Injection (DI)
-* [Dependency Injection in NET - Mark-Seemann](http://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501?tag=xurxodeveloper-20) 
+* [Dependency Injection in NET - Mark-Seemann](http://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501?tag=xurxodev-20) 
 
 ### Command Query Responsibility Segregation (CQRS)
-* [CQRS, The example](http://www.amazon.com/gp/product/1484102878?tag=xurxodeveloper-20) 
+* [CQRS, The example](http://www.amazon.com/gp/product/1484102878?tag=xurxodev-20) 
 
 ### Domain Driven Design
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](http://www.amazon.com/gp/product/0321125215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321125215&linkCode=as2&tag=xurxodevelo09-20&linkId=YYEGIGUSQYKSU6XY)
-* [Implementing Domain-Driven Design - Vaughn Vernon](http://www.amazon.com/gp/product/0321834577/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321834577&linkCode=as2&tag=xurxodevelo09-20&linkId=V2N2XLIWV7EDKDTI)
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](http://www.amazon.com/gp/product/0321125215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321125215&linkCode=as2&tag=xurxodev-20&linkId=YYEGIGUSQYKSU6XY)
+* [Implementing Domain-Driven Design - Vaughn Vernon](http://www.amazon.com/gp/product/0321834577/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321834577&linkCode=as2&tag=xurxodev-20&linkId=V2N2XLIWV7EDKDTI)
 
 ### Testing
-* [Test Driven Development: By Example - Kent Beck](http://www.amazon.com/gp/product/0321146530/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321146530&linkCode=as2&tag=xurxodevelo09-20&linkId=S76CMKLILXWVTBO3)
-* [Growing Object-Oriented Software, Guided by Tests - Steve Freeman](http://www.amazon.com/gp/product/0321503627/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=xurxodevelo09-20&linkId=Z26YBTBIO222JPAC)
-* [xUnit Test Patterns: Refactoring Test Code - Gerard Meszaros](http://www.amazon.com/gp/product/0131495054/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131495054&linkCode=as2&tag=xurxodevelo09-20&linkId=RQUVYX2KZVLBZTW3)
-* [Agile Testing: A Practical Guide for Testers and Agile Teams - Lisa Crispin](http://www.amazon.com/gp/product/0321534468/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321534468&linkCode=as2&tag=xurxodevelo09-20&linkId=DH4FFVW6VXZ7KPRC)
-* [The Art of Unit Testing: with examples in C# - Roy Osherove](http://www.amazon.com/gp/product/1617290890/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617290890&linkCode=as2&tag=xurxodevelo09-20&linkId=POSITZ2AQBS7Z7T5)
+* [Test Driven Development: By Example - Kent Beck](http://www.amazon.com/gp/product/0321146530/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321146530&linkCode=as2&tag=xurxodev-20&linkId=S76CMKLILXWVTBO3)
+* [Growing Object-Oriented Software, Guided by Tests - Steve Freeman](http://www.amazon.com/gp/product/0321503627/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=xurxodev-20&linkId=Z26YBTBIO222JPAC)
+* [xUnit Test Patterns: Refactoring Test Code - Gerard Meszaros](http://www.amazon.com/gp/product/0131495054/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131495054&linkCode=as2&tag=xurxodev-20&linkId=RQUVYX2KZVLBZTW3)
+* [Agile Testing: A Practical Guide for Testers and Agile Teams - Lisa Crispin](http://www.amazon.com/gp/product/0321534468/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321534468&linkCode=as2&tag=xurxodev-20&linkId=DH4FFVW6VXZ7KPRC)
+* [The Art of Unit Testing: with examples in C# - Roy Osherove](http://www.amazon.com/gp/product/1617290890/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617290890&linkCode=as2&tag=xurxodev-20&linkId=POSITZ2AQBS7Z7T5)
