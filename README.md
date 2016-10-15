@@ -26,6 +26,9 @@
 * [PageObject - Martin Fowler](http://martinfowler.com/bliki/PageObject.html)
 * [Page Objects - Selenium](https://code.google.com/p/selenium/wiki/PageObjects)
 
+### Robot Pattern
+* [Testing Robots - Jake Wharton](https://realm.io/news/kau-jake-wharton-testing-robots)
+
 ### Clean Architecture
 * [The Clean Architecture - Uncle Bob](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Architecting Android…The clean way? - Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way)
