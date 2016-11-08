@@ -2,12 +2,15 @@
 
 ## Resources
 
+### Depdendency Inversion
+* [Profundizando en la Inversión de Dependencia - xurxodev](http://xurxodev.com/profundizando-en-la-inversion-de-dependencia/)
+
 ### Inversion of control (IOC)
 * [Inversion of Control - Martin Fowler]( http://martinfowler.com/bliki/InversionOfControl.html) 
 * [Introducción a Inversión de Control - xurxodev] (http://xurxodeveloper.blogspot.com.es/2014/09/inversion-de-control-ioc.html)
 
 ### Dependency Injection (DI)
-* [Introducción a Inyección de Dependencias - xurxodev] (http://xurxodeveloper.blogspot.com/2014/09/Inyeccion-de-Dependencias-DI.html)
+* [Aclarando conceptos relacionados con la Inyección de Dependencias - xurxodev] (https://blog.kirei.io/aclarando-conceptos-relacionados-con-la-inyeccion-de-dependencias-96e186cb95d1#.ynegmyuw1)
 * [Composition Root - Mark Seemann] (http://blog.ploeh.dk/2011/07/28/CompositionRoot)
 
 ### Command Query Responsibility Segregation (CQRS)
