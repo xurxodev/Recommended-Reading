@@ -42,6 +42,12 @@
 * [Android Clean Architecture - Fernando Cejas](https://github.com/android10/Android-CleanArchitecture)
 * [Clean Contacts - Christian Panadero](https://github.com/PaNaVTEC/Clean-Contacts)
 
+### Testing
+* [World-Class Testing Development Pipeline for Android - Part 1 - pedrovgs](http://blog.karumi.com/world-class-testing-development-pipeline-for-android)
+* [World-Class Testing Development Pipeline for Android - Part 2 - pedrovgs](http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-2)
+* [World-Class Testing Development Pipeline for Android - Part 3 - pedrovgs](http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-3)
+* [World-Class Testing Development Pipeline for Android - Part 4 - pedrovgs](http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-4)
+
 ## Books
 
 ### Design Patterns and Best Practices
