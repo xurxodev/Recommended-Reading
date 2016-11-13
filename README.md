@@ -37,6 +37,7 @@
 * [The Clean Architecture - Uncle Bob](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Architecting Android…The clean way? - Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way)
 * [My way to clean Android - Christian Panadero](http://es.slideshare.net/ChristianPanadero/my-way-to-clean-android-android-day-salamanca-edition)
+* [A detailed guide on developing Android apps using the Clean Architecture pattern - Dario Miličić](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.cgm45xqri)
 
 ### Android Github Repositories with Best Practices
 * [EffectiveAndroidUI - pedrovgs](https://github.com/pedrovgs/EffectiveAndroidUI)
