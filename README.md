@@ -80,4 +80,4 @@
 * [The Art of Unit Testing: with examples in C# - Roy Osherove](http://www.amazon.com/gp/product/1617290890/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617290890&linkCode=as2&tag=xurxodev-20&linkId=POSITZ2AQBS7Z7T5)
 
 ### Software Craftsmanship
-* [Software Craftsman, The:Professionalism, Pragmatism, Pride](https://www.amazon.es/gp/product/0134052501/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=0134052501&linkCode=as2&tag=xurxodev0e-21)
+* [Software Craftsman, The:Professionalism, Pragmatism, Pride - Sandro Mancuso](https://www.amazon.es/gp/product/0134052501/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=0134052501&linkCode=as2&tag=xurxodev0e-21)
