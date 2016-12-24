@@ -49,7 +49,8 @@
 * [World-Class Testing Development Pipeline for Android - Part 2 - pedrovgs](http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-2)
 * [World-Class Testing Development Pipeline for Android - Part 3 - pedrovgs](http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-3)
 * [World-Class Testing Development Pipeline for Android - Part 4 - pedrovgs](http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-4)
-* [Triangular en TDD](http://xurxodev.com/triangular-en-tdd)
+* [Triangular en TDD - XurxoDev](http://xurxodev.com/triangular-en-tdd)
+* [Naming Test Clases And Methods - Codurance](https://codurance.com/2014/12/13/naming-test-classes-and-methods/)
 
 ## Books
 
