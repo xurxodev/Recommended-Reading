@@ -53,7 +53,8 @@
 * [Naming Test Clases And Methods - Codurance](https://codurance.com/2014/12/13/naming-test-classes-and-methods/)
 
 ## Model View Presenter
-* [Model-View-Presenter Architecture in Android Applications](http://macoscope.com/blog/model-view-presenter-architecture-in-android-applications/)
+* [Model-View-Presenter Architecture in Android Applications](http://macoscope.com/blog/model-view-presenter-architecture-in-android-applications/) 
+
 ## Books
 
 ### Design Patterns and Best Practices
