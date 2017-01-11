@@ -43,6 +43,7 @@
 * [EffectiveAndroidUI - pedrovgs](https://github.com/pedrovgs/EffectiveAndroidUI)
 * [Android Clean Architecture - Fernando Cejas](https://github.com/android10/Android-CleanArchitecture)
 * [Clean Contacts - Christian Panadero](https://github.com/PaNaVTEC/Clean-Contacts)
+* [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
 
 ### Testing
 * [World-Class Testing Development Pipeline for Android - Part 1 - pedrovgs](http://blog.karumi.com/world-class-testing-development-pipeline-for-android)
