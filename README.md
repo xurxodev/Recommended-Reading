@@ -7,15 +7,15 @@
 
 ### Inversion of control (IOC)
 * [Inversion of Control - Martin Fowler]( http://martinfowler.com/bliki/InversionOfControl.html) 
-* [Introducción a Inversión de Control - xurxodev] (http://xurxodeveloper.blogspot.com.es/2014/09/inversion-de-control-ioc.html)
+* [Introducción a Inversión de Control - xurxodev](http://xurxodeveloper.blogspot.com.es/2014/09/inversion-de-control-ioc.html)
 
 ### Dependency Injection (DI)
-* [Aclarando conceptos relacionados con la Inyección de Dependencias - xurxodev] (https://blog.kirei.io/aclarando-conceptos-relacionados-con-la-inyeccion-de-dependencias-96e186cb95d1#.ynegmyuw1)
-* [Composition Root - Mark Seemann] (http://blog.ploeh.dk/2011/07/28/CompositionRoot)
+* [Aclarando conceptos relacionados con la Inyección de Dependencias - xurxodev](https://blog.kirei.io/aclarando-conceptos-relacionados-con-la-inyeccion-de-dependencias-96e186cb95d1#.ynegmyuw1)
+* [Composition Root - Mark Seemann](http://blog.ploeh.dk/2011/07/28/CompositionRoot)
 * [Aclarando conceptos relacionados con la Inyección de Dependencias - xurxodev](https://blog.kirei.io/aclarando-conceptos-relacionados-con-la-inyeccion-de-dependencias-96e186cb95d1#.qf5orl8go)
 
 ### Command Query Responsibility Segregation (CQRS)
-* [CQRS, Task Based UIs, Event Sourcing agh! - Greg Young] (http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh)
+* [CQRS, Task Based UIs, Event Sourcing agh! - Greg Young](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh)
 * [CQRS - Martin Fowler](http://martinfowler.com/bliki/CQRS.html)
 * [Exposing CQRS Through a RESTful API](http://www.infoq.com/articles/rest-api-on-cqrs) 
 * [GitHub - Fohjin.DDD.Example](https://github.com/MarkNijhof/Fohjin/tree/master/Fohjin.DDD.Example) 
